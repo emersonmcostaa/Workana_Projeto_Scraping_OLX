@@ -13,9 +13,8 @@ __Destaco os seguintes pontos desse projeto:__
  
 ## Desmonstração do codigo rodadando para o cliente ver:
 
+https://github.com/emersonmcostaa/Workana_Projeto_Scraping_OLX/assets/99415850/eed05bc6-a52c-4eaa-8cf5-2013aa178835
 
-  
-  
 ## Autor
 
 Emerson Monteiro da Costa
